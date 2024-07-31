@@ -10,7 +10,7 @@ A solution to problem where the cursor leaves the waydroid window when playing R
 
 ## Configuration
 
-You must create a file at `~/.config/lock-roblox-cursor-hyprland/Config.toml` for the configuration for the app to work properly.
+You must create a file at `~/.config/hypr-roblox-lock/Config.toml` for the configuration for the app to work properly.
 
 Example configuration:
 ```toml

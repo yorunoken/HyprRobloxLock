@@ -16,12 +16,12 @@ impl Config {
         let home_dir = env::var("HOME").expect("Failed to get HOME environment variable");
         let file_path = Path::new(&home_dir)
             .join(".config")
-            .join("lock-roblox-cursor-hyprland")
+            .join("hypr-roblox-lock")
             .join("Config.toml");
 
         let config_str = match fs::read_to_string(&file_path) {
             Ok(s) => s,
-            Err(_) => panic!("No configuration file found, create one in `~/.config/lock-roblox-cursor-hyprland/Config.toml`")
+            Err(_) => panic!("No configuration file found, create one in `~/.config/hypr-roblox-lock/Config.toml`")
         };
         let config = toml::from_str(&config_str)?;
 

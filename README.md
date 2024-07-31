@@ -33,8 +33,8 @@ bind = CTRL ALT, D, exec, killall hypr-roblox-lock
 
 ## Installation
 
-Download the binary from the [releases tab](https://github.com/yorunoken/lock-roblox-cursor-hyprland/releases) and put it in `/usr/lib/binary`
+Download the binary from the [releases tab](https://github.com/yorunoken/HyprRobloxLock/releases) and put it in `/usr/lib/binary`
 
 ## Usage
 
-Run `lock-roblox-cursor-hyprland` from the terminal. The app will take about 4 seconds to activate (intentional).
+Run `hypr-roblox-lock` from the terminal. The app will take about 4 seconds to activate (intentional).

@@ -28,7 +28,7 @@ I couldn't figure out how to terminate the app by listening to key inputs, if yo
 In the meantime, you should assign a bind to killing the process in your hyprland config.
 
 ```sh
-bind = CTRL ALT, D, exec, killall lock-roblox-cursor-hyprland
+bind = CTRL ALT, D, exec, killall hypr-roblox-lock
 ```
 
 ## Installation

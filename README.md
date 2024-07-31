@@ -1,4 +1,4 @@
-# lock-roblox-cursor-hyprland
+# HyprRobloxLock
 A solution to problem where the cursor leaves the waydroid window when playing Roblox.
 
 **Disclaimer: Only works on Hyprland.**

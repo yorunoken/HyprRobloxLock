@@ -1,5 +1,5 @@
 [package]
-name = "lock-roblox-cursor-hyprland"
+name = "hypr-roblox-lock"
 version = "0.1.0"
 edition = "2021"
 
